@@ -1,8 +1,1 @@
-# Claude Test Repository
-
-This repository was created to test GitHub integration with Claude desktop app.
-
-## Features tested:
-- Repository creation
-- File creation
-- Commit functionality
+{"encoding": "base64", "content": "IyBDbGF1ZGUgVGVzdCBSZXBvc2l0b3J5CgpUaGlzIHJlcG9zaXRvcnkgd2FzIGNyZWF0ZWQgdG8gdGVzdCBHaXRIdWIgaW50ZWdyYXRpb24gd2l0aCBDbGF1ZGUgZGVza3RvcCBhcHAuCgojIyBGZWF0dXJlcyB0ZXN0ZWQ6Ci0gUmVwb3NpdG9yeSBjcmVhdGlvbgotIEZpbGUgY3JlYXRpb24KLSBDb21taXQgZnVuY3Rpb25hbGl0eQ=="}
